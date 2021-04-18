@@ -1,0 +1,46 @@
+h1 {
+    font-weight: 100;
+    font-style: italic;
+    color: black;
+    z-index:inherit;
+    position:absolute;
+    left: 220px;
+    margin-top: 50px;
+        }
+
+.abertura{
+     margin-top: 100px;
+     left: 210px;
+     position:absolute;
+}    
+h3{
+    color: black;
+    margin-bottom: -17px;
+    }
+body {
+    position:absolute;
+    background-color:rgb(233, 240, 232);
+    font-size: 18px; 
+    line-height: 30px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+.perfil {
+    margin-top: 20px;
+    border-radius: 70px;
+    width: 200px;
+    float:left;       
+    
+}
+.conteúdo{
+         margin-top: 185px;
+   }
+
+.conteúdo .topico1{  
+        margin-left: 200px;
+}
+
+
+
+
